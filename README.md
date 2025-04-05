@@ -122,12 +122,3 @@ Feel free to fork this repo and submit pull requests. Suggestions are welcome!
 
 MIT License — see `LICENSE` file for details.
 ```
-
----
-
-Let me know:
-- Which dataset you used?
-- Which framework (PyTorch or TensorFlow)?
-- Any unique features you’ve added?
-
-I can customize the README even further based on your exact implementation.
